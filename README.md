@@ -10,4 +10,4 @@ Access the app here https://catie-mestayerbankingapp.s3.us-east-2.amazonaws.com/
 
 Please watch this video for app functionality.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EH1tPSAN_a4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/embed/EH1tPSAN_a4
